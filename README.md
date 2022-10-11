@@ -5,5 +5,5 @@
 Para rodar esse projeto na tua máquina, por favor digite:
 
 ``````
-python app py
+eu sou o batman
 ``````
